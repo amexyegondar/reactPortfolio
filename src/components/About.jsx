@@ -14,21 +14,16 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Tewodros II's first task after having reunited the other provinces was
-         to bring Shewa under his control. During the Era of the Princes, Shewa was, 
-         even more than most provinces, an independent entity, its ruler even styling himself 
-         Negus (Neguece), the title for King. In the course of subduing the Shewans, Tewodros took with
-          him a Shewan prince, 
-        Menelik II who he brought up as his own son, who would later become Emperor (or Atse) himself.
+       My name is Miki Shibabaw from Gondar University.
+    I am HTML,CSS,PHP,REACT,JAVASCRIPT,REACT JS ,DJANGO,REACT-REDUX,React Native developer.
         </p>
 
         <br />
 
         <p className="text-xl">
-        Despite his success against Shewa, Tewodros faced constant rebellions
-         by stiffnecked nobles in other regions not understanding the benefits of 
-         modernization. He ultimately committed suicide at the Battle of Magdala,
-          during the British Expedition to Abyssinia.
+I can develop responsive website with material ui,tailwind css framework.
+    I also develop mobile appication in React Native and Desktop application in c# and different Games.
+    At backend I also render django rest framework and PhpMyAdmin XAMPP
 
 
         </p>
