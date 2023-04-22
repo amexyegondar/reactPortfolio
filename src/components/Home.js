@@ -38,7 +38,7 @@ const Home = () => {
 
         <div>
           <img
-            src={HeroImage}
+            src="https://media.licdn.com/dms/image/D4E35AQGBQYWCf9z_lw/profile-framedphoto-shrink_400_400/0/1682189634277?e=1682794800&v=beta&t=netYV1TwsHR8epWVfQowajb84ebXyOkF-QyqkA6oaHA"
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
