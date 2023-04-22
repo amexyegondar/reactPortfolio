@@ -12,13 +12,14 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I was the king of Ethiopia( 1855 – 1868)
+            Miki Shibabaw is my name.
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Tewodros II's origins were in the Era of the Princes, but his ambitions were not 
-          those of the regional nobility. He sought to re-establish a cohesive Ethiopian state and
-          to reform its administration and church.
-           He sought to restore Solomonic hegemony, and he considered himself the Elect of God
+    I have junior skill in web and mobile application development  in React JS, Python, Flutter, and React Native. 
+    My expertise in these technologies has allowed me to build applications that can run on multiple platforms and devices. 
+    I enjoy working on challenging projects and am passionate about delivering high-quality solutions that meet the needs of my clients.
+    With a keen eye for detail and a commitment to excellence, I am confident in my ability to develop innovative applications that exceed expectations.
+         
           </p>
 
           <div>
